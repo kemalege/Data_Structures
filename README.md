@@ -2,8 +2,8 @@
 
 | Week | **`Subject`** | LAB |
 |:----:|:-------:|:-----:|
-|1|Inheritance, Abstract, Interface and Generics|[**`Generics`**]()<br>**`[100/100]`** |
-|2|Stacks, Queues and Operation Notations|[**`Islemler.java`**](https://github.com/kemalege/data_structures/blob/main/BinaryHeap.java)|
+|1|Inheritance, Abstract, Interface and Generics|[**`Generics`**](./data_structures/blob/main/data/lab/week_1/Araba.java)<br>**`[100/100]`** |
+|2|Stacks, Queues and Operation Notations|[**`Islemler.java`**]()|
 |3|LinkedList and DoubleLinkedList|[**`DoubleLinkedList`**]()<br>**`[100/100]`** |
 |4|BinarySearchTrees and Expression Trees|[**`BinarySearchTree`**]()<br>**`[100/100]`**|
 |5|AVL Trees|[**`Treversal`**]()<br>**`[100/100]`** |[**`ExpressionTree`**]()<br>**`[100/100]`**|
