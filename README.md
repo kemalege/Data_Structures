@@ -2,7 +2,7 @@
 
 | Week | **`Subject`** | LAB |
 |:----:|:-------:|:-----:|
-|1|Inheritance, Abstract, Interface and Generics|[**`Generics`**](/data_structures/blob/main/data/lab/week_1/Araba.java)<br>**`[100/100]`** |
+|1|Inheritance, Abstract, Interface and Generics|[**`Generics`**](data_structures/blob/main/data/lab/week_1/Araba.java)<br>**`[100/100]`** |
 |2|Stacks, Queues and Operation Notations|[**`Islemler.java`**]()|
 |3|LinkedList and DoubleLinkedList|[**`DoubleLinkedList`**]()<br>**`[100/100]`** |
 |4|BinarySearchTrees and Expression Trees|[**`BinarySearchTree`**]()<br>**`[100/100]`**|
