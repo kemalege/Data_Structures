@@ -3,13 +3,13 @@
 | Week | **`Subject`** | LAB |
 |:----:|:-------:|:-----:|
 |1|Inheritance, Abstract, Interface and Generics|[**`Generics`**](./data/lab/week_1/Araba.java)<br>**`[100/100]`** |
-|2|Stacks, Queues and Operation Notations|[**`Islemler.java`**]()|
-|3|LinkedList and DoubleLinkedList|[**`DoubleLinkedList`**]()<br>**`[100/100]`** |
-|4|BinarySearchTrees and Expression Trees|[**`BinarySearchTree`**]()<br>**`[100/100]`**|
-|5|AVL Trees|[**`Treversal`**]()<br>**`[100/100]`** |[**`ExpressionTree`**]()<br>**`[100/100]`**|
-|6|Binary Heap and Huffman Trees|[**`BinaryHeap`**]()<br>**`[100/100]`** |
-|7|2-3 Trees and B Trees| [**`AVLTrees`**]()<br>**`[100/100]`** |
-|8|Hash| [**`SeperatedChainHash`**]()<br>**`[100/100]`** |
-|9| -- | [**`QuadraticProbeHashh`**]()<br>**`[100/100]`** |
+|2|Stacks, Queues and Operation Notations|[**`Islemler.java`**](./data/lab/week_2/Islemler.java)|
+|3|LinkedList and DoubleLinkedList|[**`DoubleLinkedList`**](./data/lab/week_3/LabDoublyLinkedList.java)<br>**`[100/100]`** |
+|4|BinarySearchTrees and Expression Trees|[**`BinarySearchTree`**](./data/lab/week_4/LabBinarySearchTree.java)<br>**`[100/100]`**|
+|5|AVL Trees|[**`Treversal`**]()<br>**`[100/100]`** |[**`ExpressionTree`**](./data/lab/week_5/Traversal.java)<br>**`[100/100]`**|
+|6|Binary Heap and Huffman Trees|[**`BinaryHeap`**](./data/lab/week_6/BinaryHeap.java)<br>**`[100/100]`** |
+|7|2-3 Trees and B Trees| [**`AVLTrees`**](./data/lab/week_7/Rotator.java)<br>**`[100/100]`** |
+|8|Hash| [**`SeperatedChainHash`**](./data/lab/week_8/SeperatedChainHash.java)<br>**`[100/100]`** |
+|9| -- | [**`QuadraticProbeHashh`**](./data/lab/week_9/QuadraticProbeHashing.java)<br>**`[100/100]`** |
 
 
