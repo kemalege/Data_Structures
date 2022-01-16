@@ -10,7 +10,7 @@
 |6|Binary Heap and Huffman Trees|[**`BinaryHeap`**](./data/lab/week_6/BinaryHeap.java)<br>**`[100/100]`** |
 |7|2-3 Trees and B Trees| [**`AVLTrees`**](./data/lab/week_7/Rotator.java)<br>**`[100/100]`** |
 |8|Hash| [**`SeperatedChainHash`**](./data/lab/week_8/SeperatedChainHash.java)<br>**`[100/100]`** |
-|9| -- | [**`QuadraticProbeHashh`**](./data/lab/week_9/QuadraticProbeHashing.java)<br>**`[100/100]`** |
-|10| -- | [**`LabGraph1`**](./data/lab/week_10/LabGraph1.java)<br>**`[100/100]`** |
-|11| -- | [**`LabGraph1`**](./data/lab/week_11/LabGraph1.java)<br>**`[100/100]`** |
-|12| -- | [**`LabGraph1`**](./data/lab/week_12/LabGraph1.java)<br>**`[100/100]`** |
+|9| Graphs | [**`QuadraticProbeHashh`**](./data/lab/week_9/QuadraticProbeHashing.java)<br>**`[100/100]`** |
+|10| Graphs | [**`LabGraph1`**](./data/lab/week_10/LabGraph1.java)<br>**`[100/100]`** |
+|11| Graphs | [**`LabGraph2`**](./data/lab/week_11/LabGraph2.java)<br>**`[100/100]`** |
+|12| Graphs | [**`LabGraph3`**](./data/lab/week_12/LabGraph3.java)<br>**`[100/100]`** |
