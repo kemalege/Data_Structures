@@ -11,5 +11,6 @@
 |7|2-3 Trees and B Trees| [**`AVLTrees`**](./data/lab/week_7/Rotator.java)<br>**`[100/100]`** |
 |8|Hash| [**`SeperatedChainHash`**](./data/lab/week_8/SeperatedChainHash.java)<br>**`[100/100]`** |
 |9| -- | [**`QuadraticProbeHashh`**](./data/lab/week_9/QuadraticProbeHashing.java)<br>**`[100/100]`** |
-
-
+|10| -- | [**`LabGraph1`**](./data/lab/week_10/LabGraph1.java)<br>**`[100/100]`** |
+|11| -- | [**`LabGraph1`**](./data/lab/week_11/LabGraph1.java)<br>**`[100/100]`** |
+|12| -- | [**`LabGraph1`**](./data/lab/week_12/LabGraph1.java)<br>**`[100/100]`** |
